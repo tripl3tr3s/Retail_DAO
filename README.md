@@ -1,4 +1,6 @@
-# Retail DAO
+### Retail DAO
+
+<img src="https://raw.githubusercontent.com/tripl3tr3s/Retail_DAO/refs/heads/main/Images/LP-banner.png" atl="Retail DAO banner" witdth="600"/>
 
 Welcome to Retail DAO, a decentralized organization revolutionizing retail through Web3 on the Base Network. This repository hosts our smart contracts, governance documentation, and community resources, ensuring transparency and open collaboration.
 
