@@ -16,8 +16,6 @@ Welcome to Retail DAO, a decentralized organization revolutionizing retail throu
 - `scripts/`: Hardhat scripts for authorized interaction
 - `test/`: Unit tests for smart contracts
 - `README.md`: Project overview
-- `GOVERNANCE.md`: Governance processes
-- `CONTRIBUTING.md`: Contribution guidelines
 - `LICENSE`: Licensing information
 
 ## Contributing
